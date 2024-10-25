@@ -149,8 +149,8 @@
 
 ---
 
-### **Voice AI for Insurance – Bajaj Allianz**
-**Overview**: I developed a **multilingual voice AI system** to streamline form filling for Bajaj Allianz’s insurance services. This system leverages **natural language understanding (NLU)** to process and understand user input in **multiple Indian languages**, guiding users through complex insurance forms.
+### **Voice AI for Insurance**
+**Overview**: I developed a **multilingual voice AI system** to streamline form filling for insurance services. This system leverages **natural language understanding (NLU)** to process and understand user input in **multiple Indian languages**, guiding users through complex insurance forms.
 
 - **AI Technology**: The platform uses a **multilingual NLP engine** capable of understanding over **10 Indian languages**. It employs **conversational AI** to ask clarifying questions and guide users through the form, minimizing the need for manual inputs.
 - **Efficiency Gains**: This voice-powered system has reduced form-filling time by **60%** and improved data accuracy by **40%**, revolutionizing the insurance customer experience.
